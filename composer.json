@@ -1,0 +1,19 @@
+{
+    "name": "piseth/pos",
+    "description": "this is package test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "piseth",
+            "email": "piseth121235@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Piseth\\Pos\\": "src/"
+        }
+    }
+}
